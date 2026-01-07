@@ -39,17 +39,7 @@ const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-slate-50 flex flex-col">
       {/* Header */}
-      <header className="sticky top-0 z-30 bg-white/80 backdrop-blur-md border-b border-slate-200 px-6 py-4">
-        <div className="max-w-7xl mx-auto flex items-center justify-between">
-          <div className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-indigo-600 rounded-xl flex items-center justify-center text-white font-black text-xl italic shadow-indigo-200 shadow-lg">
-              V
-            </div>
-            <div>
-              <h1 className="font-bold text-slate-800 text-lg">Vivid HSV</h1>
-              <p className="text-xs text-slate-500 font-medium">Pro Color Extraction Tool</p>
-            </div>
-          </div>
+      <header className="sticky top-0 z-30 bg-white/80đất </p>"sticky top-0 z-30 bg-white/80 </p>>
           
           <div className="flex items-center gap-4">
             <label className="flex items-center gap-2 px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-lg cursor-pointer font-medium transition-all shadow-md active:scale-95">

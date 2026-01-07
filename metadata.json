@@ -1,0 +1,5 @@
+{
+  "name": "HSVPicker",
+  "description": "A sophisticated color picking tool that extracts HSV values from images, featuring AI-powered color palette analysis and historical tracking.",
+  "requestFramePermissions": []
+}
